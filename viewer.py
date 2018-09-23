@@ -4,13 +4,13 @@ Created on Oct 15, 2016
 
 @author: rcriii
 '''
-import DHLLDV_constants
-import DHLLDV_framework
-import homogeneous
-
 #import numpy as np
 import matplotlib.pyplot as plt
 
+import DHLLDV_constants
+import DHLLDV_framework
+import homogeneous
+import numpy as np
 
 if __name__ == '__main__':
     
