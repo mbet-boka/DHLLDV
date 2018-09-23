@@ -88,6 +88,8 @@ if __name__ == '__main__':
     HG_plot.plot(LDV_vls_list, LDV_im_list, linewidth=1, linestyle='dotted', color='r')
     HG_plot.plot(vls_list, Cvt_im_list, linewidth=2, linestyle='--', color='g')
     HG_plot.grid(True)
+
+    #Add comment to check git
     
 #     def on_plot_hover(event):
 #         for curve in Erhg_plot.get_lines():
